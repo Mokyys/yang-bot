@@ -1,1 +1,1 @@
-worker: python rppr.py
+ python rppr.py
